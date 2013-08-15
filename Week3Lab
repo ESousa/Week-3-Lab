@@ -49,8 +49,8 @@
 				
 	
 		var ad_metadata = {
-			'ad0' : "This is my banner ad",
-			'ad1' : "buy one get one free" ,
+			'ad0' : "Subway Eat Fresh Daily",
+			'ad1' : "Sleep Well at the Holiday Inn" ,
 			'ad2' : "12345678900987654321",
 			'ad3' : "Abcdefghijklmnop",
 			'ad4' : "How are you tonight?"		
@@ -83,7 +83,7 @@
 		
 			ad_div.innerHTML = ad_metadata_value;
 			
-			document.title = ad_metadata_value;
+			document.title = ad_metadata_value.substr(0,15);
 			
 			console.log(ad_metadat_value.substr (0,15));
 			
