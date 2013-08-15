@@ -40,7 +40,7 @@
 	</head>
 	<body>
 
-		<div id="ad"> This is my ad</div>
+		<div id="ad"> This is my banner ad</div>
 		
 		
 		<button onclick="rand_ad_display();">call add</button>
@@ -49,7 +49,7 @@
 				
 	
 		var ad_metadata = {
-			'ad0' : "Are you ready for some football???",
+			'ad0' : "This is my banner ad",
 			'ad1' : "buy one get one free" ,
 			'ad2' : "12345678900987654321",
 			'ad3' : "Abcdefghijklmnop",
