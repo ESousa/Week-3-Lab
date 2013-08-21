@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-		<title> Subway Eat Fresh Daily </title>
+		<title> Week 3 Lab </title>
 		<style>
 		
 			@keyframes slidein {
@@ -40,7 +40,7 @@
 	</head>
 	<body>
 
-		<div id="ad"> This is my banner ad</div>
+		<div id="ad">Subway Eat Fresh Daily</div>
 		
 		
 		<button onclick="rand_ad_display();">call add</button>
