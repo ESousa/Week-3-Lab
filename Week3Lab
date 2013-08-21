@@ -51,9 +51,9 @@
 		var ad_metadata = {
 			'ad0' : "Subway Eat Fresh Daily",
 			'ad1' : "Sleep Well at the Holiday Inn" ,
-			'ad2' : "12345678900987654321",
-			'ad3' : "Abcdefghijklmnop",
-			'ad4' : "How are you tonight?"		
+			'ad2' : "Always eat freash at Papa Johns Pizza",
+			'ad3' : "America runs on Dunkin",
+			'ad4' : "Hungry why wait? Eat a Snickers"		
 		};
 		
 				
